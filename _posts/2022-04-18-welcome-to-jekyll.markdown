@@ -1,18 +1,20 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "欢迎来到《Rails 指南》维护日志！"
 date:   2022-04-18 10:59:08 +0800
-categories: jekyll update
+categories: rails guides
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+技术文档的翻译是个技术活儿。她不但需要有丰富的外文知识积累（当然还要有对一
+些对应的专业技术词汇了解），还需要有一定的技术背景。
 
-`YEAR-MONTH-DAY-title.MARKUP`
+林林总总，我也翻译过一些技术文档，但是，翻译的时间越长，发现翻译需要的技术
+背景越重要。例如，Rails 文档英文到中文的翻译：需要英文知识，需要 Rails 知识，
+需要 Markdown 或者 Rdoc 知识，需要 Git 知识，还需要较强的中文功底等等。
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+还有一个大问题就是——技术文档通常会随着技术的更新文档也会不断更新，翻译如何跟
+着主文档同步更新。国内也有很多人和机构团体对很多文档进行了翻译，但是后续的
+更新和维护几乎就都成了大问题。
 
 {% highlight ruby %}
 def print_hi(name)
@@ -22,8 +24,4 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+看看我能坚持多久……

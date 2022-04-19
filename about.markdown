@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+《Rails 指南》是非官方翻译并且维护的一个中文翻译版本。期翻译过程也是一个学
+习过程，可能翻译还有很多问题，但是随着学习的进度和深度，希望我能一直持续维
+护这个指南。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+如果您也对 Rails 感兴趣，并且希望参与进来，可以联系我。
